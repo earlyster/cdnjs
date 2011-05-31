@@ -1,0 +1,29 @@
+{
+    "name":"vjetvjo",
+    "filename":"vjet_vjo_min.js",
+    "version":"1.0.0",
+    "description":"JavaScript API for constructing types in JavaScript",
+    "homepage":"https://www.ebayopensource.org/index.php/VJET/HomePage",
+    "keywords":["vjetvjo",
+        "javascript",
+        "types",
+        "class",
+        "interface",
+        "mixins",
+        "enums"
+    ],
+    "maintainers":[{
+            "name":"VJET JavaScript Team",
+            "website":"https://www.ebayopensource.org/index.php/VJET/HomePage"
+        }
+    ],
+    "repositories":[{
+            "type":"git",
+            "url":"https://github.com/earlyster/vjetvjo"
+        },
+        {
+            "type":"svn",
+            "url":"http://www.ebayopensource.org/svn/vjet/trunk/core/org.ebayopensource.vjet.core.vjodef/src/org/ebayopensource/vjo/VjBootstrap_3.js"
+        }
+    ]
+}
